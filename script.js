@@ -47,7 +47,7 @@ const config = {
     adminTeamPage: {
         Creator: [
             {
-                inGameName: "SaralisDev",
+                inGameName: "DavidIredI17",
                 rank: "Founder",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
@@ -55,13 +55,13 @@ const config = {
         ],
         Owners: [
             {
-                inGameName: "Minews",
+                inGameName: "Pvpbueno",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "COVID-22",
+                inGameName: "XKJUNIOR",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
