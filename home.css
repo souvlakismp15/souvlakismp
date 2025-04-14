@@ -28,7 +28,7 @@
 }
 
 #header .content .left .ip-copied {
-    color: var(--green-color);
+    color: var(--yellow-color);
     background: var(--ip-copied-background);
     padding: 10px 20px;
     width: fit-content;
@@ -65,7 +65,7 @@
 }
 
 #header .content .left .server-name h1 {
-    color: var(--green-color);
+    color: var(--yellow-color);
     text-transform: uppercase;
     font-size: 65px;
     font-weight: 900;
