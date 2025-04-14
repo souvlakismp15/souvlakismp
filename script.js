@@ -7,9 +7,9 @@ If something doesn't work please contact me on discord (aggelosp2424#6727).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "SouvlakiSMP Minecraft", /*Server name*/
-        serverName2: "SouvlakiSMP minecraft", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        serverIp: "SouvlakiSMP", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        serverName: "Souvlaki SMP Minecraft", /*Server name*/
+        serverName2: "Souvlaki SMP minecraft", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        serverIp: "Souvlaki SMP", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
         discordServerID: "1011960565507293295" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
