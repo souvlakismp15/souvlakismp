@@ -65,7 +65,7 @@
 }
 
 #header .content .left .server-name h1 {
-    color: var(--yellow-color);
+    color: var(#FFFF33);
     text-transform: uppercase;
     font-size: 65px;
     font-weight: 900;
