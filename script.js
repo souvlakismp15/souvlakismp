@@ -180,7 +180,7 @@ const getDiscordOnlineUsers = async () => {
 
 const getMinecraftOnlinePlayer = async () => {
      try {
-        const apiUrl = `https://api.mcsrvstat.us/2/5.83.150.96:25016`;
+        const apiUrl = `https://api.mcsrvstat.us/2/souvlakismp.xyz`;
         let response = await fetch(apiUrl);
         let data = await response.json();
         return data.players.online;
